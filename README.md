@@ -5,4 +5,4 @@ The goal of this repository is to introduce students to the fundamentals of elec
 ## **2. Different Types of Sensors**
 ### *<a href= "https://circuitdigest.com/tutorial/different-types-of-sensors-and-their-working"> Click Here </a>*
 ## **3. Explore the below link **
-### *<a href= "https://www.tinkercad.com/blog/explore-microbit-with-tinkercad">
+### *<a href= "https://www.tinkercad.com/blog/explore-microbit-with-tinkercad"> Click Here </a>*
