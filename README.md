@@ -4,5 +4,5 @@ The goal of this repository is to introduce students to the fundamentals of elec
 ### *<a href= "https://docs.google.com/presentation/d/e/2PACX-1vRO4gfaaa-u1svSa3uYwv-skERWq26o6htFNYDfRKNHVfcCTmRD0CwEGTcJMgSwzQ/pub?start=false&loop=false&delayms=3000"> Click Here</a> for ppt.*
 ## **2. Different Types of Sensors**
 ### *<a href= "https://circuitdigest.com/tutorial/different-types-of-sensors-and-their-working"> Click Here </a>*
-## **3. Explore the below link **
+## **3. Explore the below link**
 ### *<a href= "https://www.tinkercad.com/blog/explore-microbit-with-tinkercad"> Click Here </a>*
